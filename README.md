@@ -1,4 +1,4 @@
-#🩺 Diabetic Patient Prediction using Machine Learning
+# 🩺 Diabetic Patient Prediction using Machine Learning
 📌 About the Project
 
 This is a beginner-level machine learning project created for learning purposes. The goal is to predict whether a patient is diabetic based on medical data using classification algorithms.
